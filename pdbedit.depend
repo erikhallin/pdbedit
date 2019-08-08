@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552640906 source:e:\cpp\pdbedit\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
